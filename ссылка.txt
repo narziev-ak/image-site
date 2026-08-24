@@ -1,0 +1,5 @@
+https://cdn.jsdelivr.net/gh/narziev-ak/image-site@main/ИМЯ_ФАЙЛА
+
+это шаблон
+вот пример
+https://cdn.jsdelivr.net/gh/narziev-ak/image-site@main/fon5_girl.webp
